@@ -10,7 +10,7 @@ import com.mitocode.service.ServiceJugador;
 import com.mitocode.service.ServiceMarca;
 
 /**
- * Hello world!
+ * Hello world!   MitoCode
  *
  */
 public class App 
